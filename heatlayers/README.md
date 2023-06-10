@@ -1,0 +1,1 @@
+This folder will contain output heatlayers, that can be laid ontop of the maps in the folder `maps`

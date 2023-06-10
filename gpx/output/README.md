@@ -1,0 +1,1 @@
+This folder will contain merged gpx files per category.
